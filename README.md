@@ -7,23 +7,28 @@
 
 ## 💡 Interests  
 - 💻 Software Development & Open Source  
+- 🧠 Machine Learning & AI Optimization
 - 🎨 UI/UX Design  
-- 🔐 Cybersecurity  
-- 🤖 Artificial Intelligence & Machine Learning  
+- 🔐 Cybersecurity & Cryptography 
 
-## 📚 Currently Learning  
-- ⚡ JavaScript, TypeScript & Node.js  
-- 🏗️ Backend Development with Python & Django  
+## 📚 Currently Exploring  
+- 🚀 GPU Computing & Parallel Processing (CUDA, OpenCL, SYCL)  
+- 📡 Networking & Protocol Design (BGP, TCP/IP, QUIC)  
 - 📱 Mobile App Development with Flutter  
 
 ## 🤝 Collaboration & Projects  
 - 🔍 Always open for exciting projects & collaborations  
 - 📬 Reach me via Discord, Twitter, or GitHub  
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vastyx&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vastyx&layout=compact&theme=tokyonight)  
-
+## 🛠️ Tech Stack  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+![Assembly](https://img.shields.io/badge/x86%2FARM-Assembly-blue?style=for-the-badge)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white)  
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
 ---
 
 🎯 **Let’s code & innovate together!** 🚀  
