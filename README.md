@@ -31,10 +31,10 @@
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
 ---
 
-# 🚀 **NEXT PROJECT: MEMX**  
+# 🚀 **NEXT PROJECT: MEM-X**  
 ## 🔥 **THE NEW WAY OF TRADING** 🔥  
-💰 **Blazing fast, AI-optimized market execution**  
-📡 **Low-latency infrastructure for high-frequency trading**  
-🔐 **Secure, decentralized, and built for the future**  
+- 💰 **Blazing fast, AI-optimized market execution**  
+- 📡 **Low-latency infrastructure for high-frequency trading**  
+- 🔐 **Secure, decentralized, and built for the future**  
 
 ### 💡 Stay tuned. The revolution is coming. 
