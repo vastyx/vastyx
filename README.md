@@ -1,4 +1,4 @@
-# 👋 Hey, I'm jasin
+# 👋 hey, I'm jasin
 
 
 ## 🚀 About Me
